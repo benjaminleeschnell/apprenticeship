@@ -1,0 +1,6 @@
+{
+  "name": "apprenticeship",
+  "root": "./",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
